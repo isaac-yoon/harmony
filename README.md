@@ -18,7 +18,7 @@ Key Features
 ### Technologies
 
 - Frontend: React, Redux, Webpack
-- Backend: Node.js, Socket.io/WebSockets
+- Backend: node.js, tone.js, socket.io
 - Database: MongoDB
 - Hosting: Heroku
 
