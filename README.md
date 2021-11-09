@@ -1,4 +1,4 @@
-[![alt text](https://github.com/iProgYou/harmony/blob/master/frontend/public/harmony_logo.png "Go to Harmony")](https://harmony-music.herokuapp.com/)
+[![alt text](https://github.com/isaac-yoon/harmony/blob/master/frontend/public/harmony_logo.png "Go to Harmony")](https://harmonic-music.herokuapp.com/)
 :----------------:
 **a collaborative music creation experience**
 
