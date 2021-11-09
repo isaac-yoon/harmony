@@ -69,7 +69,7 @@ class LoginForm extends React.Component {
       } else {
         setTimeout(() => login({
           handle: 'HarmonyDemoUser',
-          password: '12345678'
+          password: '123456'
         }), 1)
       }
     }
