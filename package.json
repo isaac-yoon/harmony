@@ -36,7 +36,7 @@
     "validator": "^13.7.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.20"
   },
   "keywords": []
 }
