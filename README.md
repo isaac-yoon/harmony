@@ -6,6 +6,8 @@
 [William Sexton](https://github.com/williamsexton/)
 [Isaac Yoon](https://github.com/isaac-yoon)
 
+* Heroku no longer offers support for hobby websites. So the site will be down for the indefinite future.
+
 Harmony was an idea formed in the midst of the Covid-19 crisis. We wanted to figure out how people could make music together while they are apart. Harmony is an application where you can join with friends and create music with consistent playback.  
 
 Key Features
