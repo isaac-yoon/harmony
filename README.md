@@ -150,7 +150,7 @@ export const samplerReadableNotes = (state,room) => {
 ### Routing
 
 The project makes use of Express router to keep the code DRY and separate resources. There is a clear division of labor and Express router makes the code easily readable while also enabling flexibility for future middleware incorporation. Passport is also highlighted here and used to create a route that is only accessible if a user is logged in.
-Finally, the project uses MongoDB, a document-based NoSQL database for its scalability and flexibility. If more room information needs to be saved to the database in the future, it is simple to add the properties as opposed to a SQL-based database where the schema needs to be planned extensively before proceeding with a project.
+Finally, the project uses MongoDB -- a document-based NoSQL database -- for its scalability and flexibility. If more room information needs to be saved to the database in the future, it is simple to add the properties as opposed to a SQL-based database where the schema needs to be planned extensively before proceeding with a project.
 ```javascript
 router.post('/', passport.authenticate('jwt', { session: false }), 
   (req, res) => {
