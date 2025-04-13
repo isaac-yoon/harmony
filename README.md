@@ -184,6 +184,6 @@ router.post('/', passport.authenticate('jwt', { session: false }),
 
 Possible Future Updates
   - [ ] Add save functionality for musical compositions
-  - [ ] Implement an index page for past creations
+  - [ ] Implement an index page for past musical creations
   - [ ] Add instruments and notes
 
